@@ -1,0 +1,23 @@
+{
+    "name": "asterisk.agi.io",
+    "version": "1.0.0",
+    "description": "Asterisk AGI for NodeJS",
+    "keywords": [
+        "asterisk",
+        "pbx",
+        "utilities",
+        "events",
+        "agi",
+        "tools"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/savagz/asterisk.agi.io"
+    },
+    "contributors": [
+        {
+            "name": "Samuel Vargas",
+            "email": "samuel.vg@live.com"
+        }
+    ]
+}

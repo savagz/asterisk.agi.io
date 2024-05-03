@@ -1,0 +1,18 @@
+# Archivos de respaldo
+*~
+
+# Archivos temporales
+*.tmp
+
+# Carpeta node_modules (ya que no necesitas enviarla a npm)
+node_modules/
+
+# Archivos de construcción generados
+/build/
+
+# Archivos de IDE
+.idea/
+.vscode/
+
+# Archivos específicos de MacOS (`.DS_Store`)
+.DS_Store

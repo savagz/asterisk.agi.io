@@ -1,0 +1,26 @@
+# Archivos de respaldo
+*~
+
+# Archivos temporales
+*.tmp
+
+# Carpeta node_modules (en proyectos de Node.js)
+node_modules/
+
+# Archivos de configuración locales
+.env
+
+# Archivos de construcción
+/build/
+
+# Archivos de registro y directorios
+logs/
+*.log
+
+# Archivos de IDE
+.idea/
+.vscode/
+
+# Archivos específicos de MacOS (`.DS_Store`)
+.DS_Store
+
