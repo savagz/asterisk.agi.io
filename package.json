@@ -10,6 +10,7 @@
         "agi",
         "tools"
     ],
+    "main": "index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/savagz/asterisk.agi.io"
@@ -19,5 +20,7 @@
             "name": "Samuel Vargas",
             "email": "samuel.vg@live.com"
         }
-    ]
+    ],
+    "license": "ISC",
+    "author": "samuel.vg@live.com"
 }
